@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is YUSUF HASAN</h2>
 
 ###
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" height="281" align = "right" style="margin-left: 20px;" />
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
@@ -37,13 +38,12 @@
 
   </div>
 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" height="281" align = "right" style="margin-left: 20px;" />
 </div>
 
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:yusufhasan1209@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
