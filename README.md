@@ -31,7 +31,7 @@
     
   ### 👨‍💻 About Me
   - 🎓 Computer Engineering undergrad at AMU (2021–2025)
-  - 🤖 Deep Learning and Computer Vision Researcher
+  - 🤖 Deep Learning and Computer Vision Engineer
   - 📌 Focused on real-time perception, robotics, and scientific NLP
   - 📝 Published at ICMLA, SPIE, and PIEC-ON
   - 🚀 Passionate about building AI for real-world impact
